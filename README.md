@@ -13,7 +13,7 @@
  
  <h3>Ejercicio Web subido en "NETLIFY": </h3>
  
- * ----> [Ir a la WEB](https://portafolionicolasmortola.netlify.app/)
+ * ----> [Ir a la WEB](https://nimb.dev/)
 
 <hr>
  
